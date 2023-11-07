@@ -2,3 +2,16 @@
     background-image: url('https://picsum.photos/1300/500');
     background-position: center center;
 }
+
+nav {
+    box-shadow: 0 15px 10px 0 rgba(0,0,0,.2);
+  }
+
+  .navbar-brand{ 
+    font-family: 'Rock Salt', cursive;
+    font-size: 30px;
+  }
+
+  .nav-link active{ 
+    font-family: 'Rock Salt', cursive;
+  }
