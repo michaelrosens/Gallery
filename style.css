@@ -9,7 +9,7 @@ nav {
 
   .navbar-brand{ 
     font-family: 'Rock Salt', cursive;
-    font-size: 3vw;
+    font-size: 2vw;
   }
 
   .nav-link active{ 
@@ -29,3 +29,9 @@ nav {
     font-family: 'Seaweed Script', cursive;
     color: black;
   }
+
+  body {
+    background-image: linear-gradient(white, grey, white);
+  }
+
+ 
