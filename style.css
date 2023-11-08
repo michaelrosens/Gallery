@@ -1,5 +1,5 @@
 .bg-hero-image {
-    background-image: url('https://picsum.photos/1300/500');
+    background-image: url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D');
     background-position: center center;
 }
 
@@ -9,7 +9,7 @@ nav {
 
   .navbar-brand{ 
     font-family: 'Rock Salt', cursive;
-    font-size: 30px;
+    font-size: 3vw;
   }
 
   .nav-link active{ 
@@ -19,4 +19,13 @@ nav {
 
   .font{ 
     font-family: 'Rock Salt', cursive;
+  }
+
+  .p-font{
+    font-family: 'Seaweed Script', cursive;
+  }
+
+  .fontt{
+    font-family: 'Seaweed Script', cursive;
+    color: black;
   }
